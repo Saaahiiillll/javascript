@@ -52,10 +52,10 @@ const addTwo = (num1, num2) => {
 }
 console.log(addTwo(3,4)) //7
 
-const addTwo = (num1, num2) =>return num1+num2
-console.log(addTwo(3,4)) //7
+const addTwo1 = (num1, num2) =>  num1+num2
+console.log(addTwo1(3,4)) //7
 
-const addTwo = (num1, num2) => (num1+num2)
-console.log(addTwo(3,4)) //7
+const addTwo2 = (num1, num2) => (num1+num2)
+console.log(addTwo2(3,4)) //7
 
   
